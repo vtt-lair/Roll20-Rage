@@ -3,7 +3,7 @@
  * Original By Werner Dohse
  * Discord: Naudran#2980
  * Roll20: https://app.roll20.net/users/1062502/werner-d
- * Github: https://github.com/werner.dohse/Rage
+ * Github: https://github.com/Werner-Dohse
 */
 var Rage = Rage || (function() {
     'use strict';
